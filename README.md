@@ -12,21 +12,24 @@ Project Setup
 Project Initialization: Repository created on GitHub and cloned to local machine.
 Frontend Setup: Initialized ReactJS project.
 Backend Setup: Initialized Node.js project with Express and connected to MongoDB (Atlas).
+
 Database Schema Design
+
 Products Schema (MongoDB)
-
-name: String
-description: String
-price: Number
-category: String
-stock: Number
+pro_name: String
+pro_description: String
+pro_price: Number 
+pro_category: String 
+pro_stock: Number 
 imageUrl: String
-Users Schema (MongoDB)
+created_at: timestamp
 
-username: String
-password: String
+Username Schema (MongoDB)
+uname: String
+fullname: String
 email: String
-
+password: String 
+created_at: timestamp
 
 Frontend Setup
 Basic structure set up for React components, including directories for components and services.
