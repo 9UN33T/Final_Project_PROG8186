@@ -8,6 +8,7 @@ Frontend: ReactJS
 Backend: Node.js with Express
 Database: MongoDB (Atlas)
 
+#WEEK-1
 Project Setup
 Project Initialization: Repository created on GitHub and cloned to local machine.
 Frontend Setup: Initialized ReactJS project.
@@ -39,7 +40,7 @@ Notes
 The project is set up using Git and GitHub for version control.
 Further development will include implementing user interfaces for product listings, shopping cart, and checkout.
 
-#Week2
+#WEEK-2
 
 Steps to run and setup the application.
 1. Clone the repository from GitHub.
