@@ -1,4 +1,4 @@
-# Sneaker Heads
+# Apni Dukan
 Student Name: Puneet Kumar
 Student Number: 8979602
 Date: 19/07/2024
@@ -38,3 +38,10 @@ State management planned to handle user sessions and cart data.
 Notes
 The project is set up using Git and GitHub for version control.
 Further development will include implementing user interfaces for product listings, shopping cart, and checkout.
+
+#Week2
+
+Steps to run and setup the application.
+1. Clone the repository from GitHub.
+2. Install the required packages using npm install @reduxjs/toolkit redux-thunk redux-devtools-extension --legacy-peer-deps
+3. Start the application using npm start for the frontend and backend.
