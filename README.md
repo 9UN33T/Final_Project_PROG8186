@@ -1,4 +1,4 @@
-# Apni Dukan
+# Sneaker Heads
 Student Name: Puneet Kumar
 Student Number: 8979602
 Date: 19/07/2024
